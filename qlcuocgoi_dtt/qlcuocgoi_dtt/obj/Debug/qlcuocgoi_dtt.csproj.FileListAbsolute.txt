@@ -1,0 +1,14 @@
+D:\Csharp_Exams\qlcuocgoi_dtt\qlcuocgoi_dtt\bin\Debug\qlcuocgoi_dtt.exe.config
+D:\Csharp_Exams\qlcuocgoi_dtt\qlcuocgoi_dtt\obj\Debug\qlcuocgoi_dtt.csprojResolveAssemblyReference.cache
+D:\Csharp_Exams\qlcuocgoi_dtt\qlcuocgoi_dtt\obj\Debug\qlcuocgoi_dtt.CNDMKH.resources
+D:\Csharp_Exams\qlcuocgoi_dtt\qlcuocgoi_dtt\obj\Debug\qlcuocgoi_dtt.CNTTCG.resources
+D:\Csharp_Exams\qlcuocgoi_dtt\qlcuocgoi_dtt\obj\Debug\qlcuocgoi_dtt.DSKH.resources
+D:\Csharp_Exams\qlcuocgoi_dtt\qlcuocgoi_dtt\obj\Debug\qlcuocgoi_dtt.Properties.Resources.resources
+D:\Csharp_Exams\qlcuocgoi_dtt\qlcuocgoi_dtt\obj\Debug\qlcuocgoi_dtt.csproj.GenerateResource.Cache
+D:\Csharp_Exams\qlcuocgoi_dtt\qlcuocgoi_dtt\bin\Debug\qlcuocgoi_dtt.exe
+D:\Csharp_Exams\qlcuocgoi_dtt\qlcuocgoi_dtt\bin\Debug\qlcuocgoi_dtt.pdb
+D:\Csharp_Exams\qlcuocgoi_dtt\qlcuocgoi_dtt\obj\Debug\qlcuocgoi_dtt.exe
+D:\Csharp_Exams\qlcuocgoi_dtt\qlcuocgoi_dtt\obj\Debug\qlcuocgoi_dtt.pdb
+D:\Csharp_Exams\QL_CUOCGOI_CDK15LTCNTT\qlcuocgoi_dtt\qlcuocgoi_dtt\bin\Debug\qlcuocgoi_dtt.exe.config
+D:\Csharp_Exams\QL_CUOCGOI_CDK15LTCNTT\qlcuocgoi_dtt\qlcuocgoi_dtt\obj\Debug\qlcuocgoi_dtt.exe
+D:\Csharp_Exams\QL_CUOCGOI_CDK15LTCNTT\qlcuocgoi_dtt\qlcuocgoi_dtt\obj\Debug\qlcuocgoi_dtt.pdb

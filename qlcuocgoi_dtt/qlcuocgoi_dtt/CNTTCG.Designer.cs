@@ -50,6 +50,7 @@
             this.label1.Size = new System.Drawing.Size(339, 24);
             this.label1.TabIndex = 0;
             this.label1.Text = "CẬP NHẬT THÔNG TIN CUỘC GỌI";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -130,7 +131,7 @@
             this.cb_sothuebao.Size = new System.Drawing.Size(279, 21);
             this.cb_sothuebao.TabIndex = 11;
             // 
-            // Form1
+            // CNTTCG
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -145,8 +146,9 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "CNTTCG";
+            this.Text = "Cập nhật thông tin cuộc gọi";
+            this.Load += new System.EventHandler(this.CNTTCG_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
